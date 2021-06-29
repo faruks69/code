@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 04 Feb 2018 14:15:54 at http://freehere.us/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://freehere.us/ -O1 "C:\My Web Sites\freehere gift card" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:15:55	Warning: 	Note: due to freehere.us remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+14:16:48	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/images/amazon.jpg (from freehere.us/)
+14:16:53	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/itunes.html (from freehere.us/)
+14:16:58	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/netflix.html (from freehere.us/)
+14:16:58	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/nintendo.html (from freehere.us/)
+14:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/paypal.html (from freehere.us/)
+14:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/images/paypal-money-adder.jpg (from freehere.us/)
+14:16:59	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/playstation.html (from freehere.us/)
+14:17:07	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/steam.html (from freehere.us/)
+14:17:07	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/images/free-visa-gift-card-codes.jpg (from freehere.us/)
+14:17:13	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/gamestop.html (from freehere.us/)
+14:17:14	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/starbucks.html (from freehere.us/)
+14:17:54	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/images/hoverlogo.html (from freehere.us/css/style.css)
+14:19:43	Warning: 	Retry after error -4 (No data (connection closed)) at link freehere.us/resources/img/googleplay.jpg (from freehere.us/googleplay.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 6 seconds : 177 links scanned, 163 files written (6204086 bytes overall) [6147568 bytes received at 24990 bytes/sec], 159212 bytes transferred using HTTP compression in 30 files, ratio 35%, 1.8 requests per connection
+(No errors, 14 warnings, 0 messages)
